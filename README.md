@@ -1,2 +1,2 @@
-# codigos-com-interface-grafica
-Códigos em Python com interface gráfica usando o PySimpleGUI
+# codigo-com-interface-grafica
+Código em Python com interface gráfica usando o PySimpleGUI
